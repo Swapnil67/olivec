@@ -9,8 +9,8 @@ $ ./example
 ```
 
 ## Gallery
-![checker]('./imgs/checker.png')
+![checker](./imgs/checker.png)
 
-![circle]('./imgs/circle.png')
+![circle](./imgs/circle.png)
 
-![lines]('./imgs/lines.png')
+![lines](./imgs/lines.png)
